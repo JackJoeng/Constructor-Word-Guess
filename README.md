@@ -34,8 +34,8 @@
 
   * Prompts the user for each guess and keeps track of the user's remaining guesses
 
-3. `Letter.js` *should not* `require` any other files.
+  * `Letter.js` *should not* `require` any other files.
 
-4. `Word.js` *should only* require `Letter.js`
+  * `Word.js` *should only* require `Letter.js`
 
 
