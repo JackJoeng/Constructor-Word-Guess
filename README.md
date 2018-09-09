@@ -3,7 +3,10 @@
 
 ## How to play:
 
-1. Type `npm install` to install all the necessary packages. 
+1. Install necessary packages: 
+
+* npm `install prompt`
+
 2. Type `node index`.
 
 ![Word Guess Cli](01-WordGuess-Cli.gif)
